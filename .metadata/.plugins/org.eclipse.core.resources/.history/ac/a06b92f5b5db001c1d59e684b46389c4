@@ -1,0 +1,26 @@
+package numeroReverso;
+
+import java.util.Scanner;
+
+public class NumeroReverso {
+	
+	public static void numeroReverso() {
+		
+		Scanner sc = new Scanner(System.in);
+		
+		System.out.print("Digite um número (o valor deve estar entre 1000 e 9999): ");
+		int numero = sc.nextInt();
+		
+		
+		
+	}
+	
+	
+	
+	
+	
+	
+	
+	
+
+}
